@@ -40,7 +40,7 @@ header .container {
 
 .filme-principal{
     font-size: 14px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url(/img/todos.jpeg);
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url(/img/stark.jpeg);
     height: 450px;
     background-size: cover;
     display: flex;
